@@ -1,4 +1,6 @@
-#Billionaires Dataset Analysis
+Billionaires Dataset Analysis
+
+
 Introduction
 Welcome to the analysis of the Billionaires Dataset! This analysis explores a comprehensive dataset containing information about billionaires from around the world. By delving into this data, we aim to uncover insights, trends, and patterns within the world of wealth and entrepreneurship. Whether you're a data enthusiast, researcher, or just curious about the billionaire lifestyle, this analysis will provide you with valuable insights.
 
